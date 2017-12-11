@@ -1,0 +1,102 @@
+{
+    "gui.soundEditor.echo": {
+        "message": "Echo",
+        "description": "Title of the button to apply the echo effect"
+    },
+    "gui.soundEditor.save": {
+        "message": "Speichern",
+        "description": "Title of the button to save trimmed sound"
+    },
+    "gui.soundEditor.stop": {
+        "message": "Stopp",
+        "description": "Title of the button to stop the sound"
+    },
+    "gui.soundEditor.redo": {
+        "message": "Wiederherstellen",
+        "description": "Title of the button to redo"
+    },
+    "gui.soundEditor.softer": {
+        "message": "Weicher",
+        "description": "Title of the button to apply thr.softer effect"
+    },
+    "gui.soundEditor.robot": {
+        "message": "Roboter",
+        "description": "Title of the button to apply the robot effect"
+    },
+    "gui.stageSelector.targetPaneAddBackdrop": {
+        "message": "Bühnenbild hinzufügen",
+        "description": "Button to add a backdrop in the target pane"
+    },
+    "gui.soundEditor.trim": {
+        "message": "Abschneiden",
+        "description": "Title of the button to start trimminging the sound"
+    },
+    "gui.costumeTab.addBackdrop": {
+        "message": "Bühnenbild hinzufügen",
+        "description": "Button to add a backdrop in the editor tab"
+    },
+    "gui.spriteSelector.addSprite": {
+        "message": "Figur hinzufügen",
+        "description": "Button to add a sprite in the target pane"
+    },
+    "gui.soundEditor.slower": {
+        "message": "Langsamer",
+        "description": "Title of the button to apply the slower effect"
+    },
+    "gui.turboMode.active": {
+        "message": "Turbo-Modus",
+        "description": "Label indicating turbo mode is active"
+    },
+    "gui.soundEditor.play": {
+        "message": "Abspielen",
+        "description": "Title of the button to start playing the sound"
+    },
+    "gui.soundTab.addSound": {
+        "message": "Klang hinzufügen",
+        "description": "Button to add a sound in the editor tab"
+    },
+    "gui.spriteSelectorItem.contextMenuDuplicate": {
+        "message": "Duplizieren",
+        "description": "Menu item to duplicate in the right click menu"
+    },
+    "gui.spriteSelectorItem.contextMenuDelete": {
+        "message": "Entfernen",
+        "description": "Menu item to delete in the right click menu"
+    },
+    "gui.stageSelector.backdrops": {
+        "message": "Bühnenbilder",
+        "description": "Label for the backdrops in the stage selector"
+    },
+    "gui.soundEditor.louder": {
+        "message": "Lauter",
+        "description": "Title of the button to apply the louder effect"
+    },
+    "gui.soundEditor.faster": {
+        "message": "Schneller",
+        "description": "Title of the button to apply the faster effect"
+    },
+    "gui.soundTab.recordSound": {
+        "message": "Klang aufnehmen",
+        "description": "Button to record a sound in the editor tab"
+    },
+    "gui.gui.addExtension": {
+        "message": "Erweiterungen",
+        "description": "Button to add an extension in the target pane"
+    },
+    "gui.soundEditor.reverse": {
+        "message": "Umkehren",
+        "description": "Title of the button to apply the reverse effect"
+    },
+    "gui.soundEditor.undo": {
+        "message": "Rückgängig machen",
+        "description": "Title of the button to undo"
+    },
+    "gui.costumeTab.addCostume": {
+        "message": "Kostüm hinzufügen",
+        "description": "Button to add a costume in the editor tab"
+    },
+    "gui.soundEditor.sound": {
+        "message": "Klang",
+        "description": "Label for the name of the sound"
+    }
+}
